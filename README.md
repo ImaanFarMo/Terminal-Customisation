@@ -37,11 +37,11 @@ Three different takes on terminal customisation.
 
 ### 01 / IMAAN
 
-*A personal corner of the terminal universe.*
+*An Ode to Indian Heritage.*
 
 <!-- Replace with your preferred screenshot -->
 <p align="center">
-  <img src="imaan/screenshots/Bangles.jpg" width="100%" alt="Imaan's terminal setup">
+  <img src="imaan/screenshots/BoatSaree.png" width="100%" alt="Imaan's terminal setup">
 </p>
 
 **Configuration files**
@@ -56,10 +56,10 @@ Three different takes on terminal customisation.
 
 ### 02 / SAYYEDA
 
-*A different personality, a different terminal.*
+*Southeast Asian inspired Pink.*
 
 <p align="center">
-  <img src="sayyeda/screenshots/PinkGalazy.jpeg" width="100%" alt="Sayyeda's terminal setup">
+  <img src="sayyeda/screenshots/CatSleeping.png" width="100%" alt="Sayyeda's terminal setup">
 </p>
 
 **Configuration files**
@@ -74,7 +74,7 @@ Three different takes on terminal customisation.
 
 ### 03 / RIJA
 
-*Another setup, another world.*
+*In the World of Neon*
 
 <p align="center">
   <img src="rija/screenshots/NeonCat.png" width="100%" alt="Rija's terminal setup">
