@@ -23,7 +23,7 @@ The terminal doesn't have to be boring.
 
 Mocha & Modules started with a simple idea: take the ordinary terminal and give it a little personality.
 
-Three people, three different aesthetics, and plenty of experimenting with colours, fonts, wallpapers and configurations.
+As Three friends with different personalities, we wanted to shift from the normal ricing of terminals we usually see, often with gaming references and dark themes. We wanted to try something that reflects the art we love and the ideas that interest us, making it uniquely ours.
 
 Using **Kitty** and **Fastfetch**, we created three individual setups, each with its own visual identity.
 
@@ -41,7 +41,7 @@ Three different takes on terminal customisation.
 
 <!-- Replace with your preferred screenshot -->
 <p align="center">
-  <img src="imaan/screenshots/BoatSaree.png" width="100%" alt="Imaan's terminal setup">
+  <img src="imaan/screenshots/Screenshot 2026-10-19 at 23.24.23.png" width="100%" alt="Imaan's terminal setup">
 </p>
 
 **Configuration files**
@@ -59,7 +59,7 @@ Three different takes on terminal customisation.
 *Southeast Asian inspired Pink.*
 
 <p align="center">
-  <img src="sayyeda/screenshots/CatSleeping.png" width="100%" alt="Sayyeda's terminal setup">
+  <img src="sayyeda/screenshots/Screenshot 2026-10-26 at 01.12.23.png" width="100%" alt="Sayyeda's terminal setup">
 </p>
 
 **Configuration files**
@@ -77,7 +77,7 @@ Three different takes on terminal customisation.
 *In the World of Neon*
 
 <p align="center">
-  <img src="rija/screenshots/NeonCat.png" width="100%" alt="Rija's terminal setup">
+  <img src="rija/screenshots/Screenshot 2026-11-02 at 22.08.14.png" width="100%" alt="Rija's terminal setup">
 </p>
 
 **Configuration files**
